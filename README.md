@@ -2,7 +2,9 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React/Ruby
 - 💞️ I’m looking to collaborate on React projects
-- 📫 How to reach me timothynjomo@gmail.com
+- 📫 [Dr. Ken Lunde](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+
+
 
 [![Timothy's github stats](https://github-readme-stats.vercel.app/api?username=timothymureithi)](https://github.com/timothymureithi/github-readme-stats)
 
