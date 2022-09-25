@@ -2,7 +2,8 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React/Ruby
 - 💞️ I’m looking to collaborate on React projects
-- 📫 [Email Me](mailto:timothynjomo@gmail.com?subject=[GitHub]%20Source%20Han%20Sans)
+- 📫 [[Contact Me](mailto:timothynjomo@gmail.com)
+
 
 
 
