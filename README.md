@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React/Ruby
 - 💞️ I’m looking to collaborate on React projects
-- 📫 [[Contact Me](mailto:timothynjomo@gmail.com)
+- 📫 [Contact Me](mailto:timothynjomo@gmail.com)
 
 
 
