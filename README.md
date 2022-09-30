@@ -1,4 +1,3 @@
-![](https://github.com/bhaveshlohana/bhaveshlohana/raw/master/animated-name.gif)
 
 Hello there, I'm Timothy Mureithi! I am currently enrolled at Moringa School. I enjoy building web and mobile apps and when am not working, you'll find me doing calisthenics.
 
