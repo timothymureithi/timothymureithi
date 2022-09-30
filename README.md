@@ -1,13 +1,12 @@
+## Hello, am Timothy
+<a href="#"><img width="60%" height="auto"  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif" height="50px"/></a>
 
-Hello there, I'm Timothy Mureithi! I am currently enrolled at Moringa School. I enjoy building web and mobile apps and when am not working, you'll find me doing calisthenics.
+## About me
 
-## Currently I'm working on:
-
-- JS, Ruby on Rails and Laravel
-
-## Also:
-- Learning Web development at Moringa School
-
+* 💻 I'm a full stack web developer
+* 📱 I make web and mobile apps 
+* 🎓 BSc Information Tecnology (Kenyatta University, July 2019)
+* 📖 Moringa School (Expected to complete on January 2023)
 
 ## Languages I use:
 
@@ -20,13 +19,9 @@ Hello there, I'm Timothy Mureithi! I am currently enrolled at Moringa School. I 
 
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032)
-![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD)
 ![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat&logo=node.js&logoColor=339933)
 ![React](https://img.shields.io/badge/-React-000000?style=flat&logo=React&logoColor=61DAFB)
 
-
-
-<img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=timothymureithia&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&bg_color=0,EC6C6C,FFD479,FFFC79,73FA79&theme=graywhite" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=timothymureithi_title=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite" />
 
 ----
 Credit: [Timothy Mureithi](https://github.com/timothymureithi)
