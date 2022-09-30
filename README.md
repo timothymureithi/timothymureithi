@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on React projects
 - 📫 timothynjomo@gmail.com
 
+- BSc. Information Technology (Kenyatta University)
+- Software Development (Moringa School) 
+
 
 
 
