@@ -1,5 +1,4 @@
-## Hello, am Timothy
-<a href="#"><img width="60%" height="auto"  src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/media/6926dbbe73b43f4ec5fe67c721489033.gif" height="50px"/></a>
+## Timothy Mureithi
 
 ## About me
 
