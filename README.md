@@ -1,14 +1,14 @@
-## Timothy Mureithi
+## TIMOTHY MUREITHI
 
-## About me
+## ABOUT ME
 
 * 💻 I'm a full stack web developer
 * 📱 I make web and mobile apps 
 * 🎓 BSc Information Tecnology (Kenyatta University, July 2019)
 * 📖 Moringa School (Expected to complete on January 2023)
 
-## Languages I use:
-
+## LANGUAGES I USE:
+ 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
