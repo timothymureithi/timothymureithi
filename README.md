@@ -14,6 +14,7 @@
 ![PHP](https://img.shields.io/badge/-PHP-000000?style=flat&logo=php)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat&logo=laravel)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
+![Rails](https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 
 
