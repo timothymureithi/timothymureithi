@@ -5,7 +5,6 @@
 * 💻 I'm a full stack web developer
 * 📱 I build web and mobile apps 
 * 🎓 BSc Information Tecnology (Kenyatta University, July 2019)
-* 📖 Moringa School (Expected to complete on January 2023)  
 
 ## LANGUAGES I USE:
  
@@ -18,5 +17,5 @@
 
 
 ----
-Credit: [Timothy Mureithi](https://github.com/timothymureithi)
+Credit: [Timothy Mureithi](https://medium.com/@njomodevs)
 
