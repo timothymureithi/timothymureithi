@@ -5,7 +5,7 @@
 * 💻 I'm a full stack web developer
 * 📱 I build web and mobile apps 
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
-* 🎓 SOFTWARE ENGINEERING - Moringa School, Febuary 2023
+* 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
 ## LANGUAGES I USE:
  
