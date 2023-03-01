@@ -2,12 +2,11 @@
 
 ## ABOUT ME
 
-* 💻 I'm a full stack web developer
-* 📱 I build web and mobile apps 
+* 💻 I'm a Full-Stack web developer
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
 * 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
-## LANGUAGES I USE:
+## My Skills:
  
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Angular](https://img.shields.io/badge/angular-%2320232a.svg?style=for-the-badge&logo=angular&logoColor=%2361DAFB)
