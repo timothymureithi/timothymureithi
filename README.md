@@ -1,6 +1,6 @@
 ## TIMOTHY MUREITHI
 
-## ABOUT ME
+## GET TO KNOW ME
 
 * 💻 I'm a Full-Stack web developer
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
