@@ -4,7 +4,7 @@
 
 ## GET TO KNOW ME
 
-* 💻 I'm a Full-Stack web developer
+* 💻 Learning React, Angular, Laravel & Firebase
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
 * 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
