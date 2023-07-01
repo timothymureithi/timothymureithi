@@ -4,7 +4,7 @@
 
 ## GET TO KNOW ME
 
-* 💻 Learning PHP & Firebase
+* 💻 Learning PHP & Python
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
 * 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
