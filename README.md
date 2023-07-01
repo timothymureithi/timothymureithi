@@ -5,7 +5,7 @@
 ## GET TO KNOW ME
 
 * 💻 Currently Sharpening my skills on <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="PHP"></code>
- & Python
+ &  <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python"></code>
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
 * 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
