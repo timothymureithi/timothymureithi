@@ -4,7 +4,7 @@
 
 ## GET TO KNOW ME
 
-* 💻 Currently Sharpening my skills on PHP and Python 
+* 💻 Currently Sharpening my skills on PHP by building an elearing platform for a local private school
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
 * 🎓 Certificate Software Engineering - Moringa School, Febuary 2023
 
