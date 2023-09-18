@@ -1,7 +1,7 @@
 ## TIMOTHY MUREITHI
 
 ## GET TO KNOW ME
-* 💻 Currently Sharpening my skills on PHP by building an elearning platform with multiple modules for students, parents, teachers and general non teaching staff for a local private school.
+* 💻 Currently Sharpening my skills on MERN by building an elearning platform for a local private school.
 
 ## EDUCATION
 * 🎓 BSc Information Tecnology - Kenyatta University, July 2019
